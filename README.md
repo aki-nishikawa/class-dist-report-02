@@ -5,3 +5,6 @@
 1. src/ServerThread.java ファイル内の DOCUMENT_ROOT を変更する．
 1. make でコンパイルは完了する．
 1. ブラウザから http://localhost:8000 にアクセスする．
+
+## advance
+- contents 以下にファイルを置くことで任意のファイルをレスポンスとして返すことが可能
